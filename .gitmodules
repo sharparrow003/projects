@@ -1,0 +1,3 @@
+[submodule "DirectoryCompare"]
+	path = DirectoryCompare
+	url = git@github.com:sharparrow003/DirectoryCompare.git
